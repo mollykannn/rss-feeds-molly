@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Molly subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="[Web] Weekly (Eng)" title="[Web] Weekly (Eng)">
+            <outline type="rss" text="Jekyll Weekly" title="Jekyll Weekly" xmlUrl="http://jekyllweekly.com/feed.xml" htmlUrl="https://jekyllweekly.com/"/>
+            <outline type="rss" text="JavaScript Weekly" title="JavaScript Weekly" xmlUrl="http://javascriptweekly.com/rss/1n0imdc9" htmlUrl="http://javascriptweekly.com/"/>
+            <outline type="rss" text="Responsive Design Weekly" title="Responsive Design Weekly" xmlUrl="http://responsivedesignweekly.com/feed/" htmlUrl="http://responsivedesignweekly.com"/>
+            <outline type="rss" text="Web Tools Weekly" title="Web Tools Weekly" xmlUrl="http://feeds.feedburner.com/WebToolsWeekly" htmlUrl="http://webtoolsweekly.com/feed.php"/>
+            <outline type="rss" text="Web Design Weekly" title="Web Design Weekly" xmlUrl="https://web-design-weekly.com/feed/" htmlUrl="https://web-design-weekly.com"/>
+        </outline>
+        <outline text="[Web] Front-End (Chi)" title="[Web] Front-End (Chi)">
+            <outline type="rss" text="O3noBLOG" title="O3noBLOG" xmlUrl="http://feeds.feedburner.com/othree" htmlUrl="https://blog.othree.net/"/>
+            <outline type="rss" text="沒一村生活點滴" title="沒一村生活點滴" xmlUrl="https://noootown.wordpress.com/feed/" htmlUrl="https://noootown.wordpress.com"/>
+            <outline type="rss" text="阮一峰的网络日志" title="阮一峰的网络日志" xmlUrl="http://feeds.feedburner.com/ruanyifeng" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+            <outline type="rss" text="张鑫旭-鑫空间-鑫生活" title="张鑫旭-鑫空间-鑫生活" xmlUrl="http://www.zhangxinxu.com/wordpress/feed/" htmlUrl="http://www.zhangxinxu.com/wordpress"/>
+            <outline type="rss" text="嫁給RD的 UI Designer" title="嫁給RD的 UI Designer" xmlUrl="http://akanelee.logdown.com/posts.rss" htmlUrl="http://akanelee.logdown.com/"/>
+            <outline type="rss" text="転転 | Startup Studio - Medium" title="転転 | Startup Studio - Medium" xmlUrl="https://share.tenten.co/feed" htmlUrl="https://share.tenten.co?source=rss----7fab3532f59c---4"/>
+            <outline type="rss" text="CSS可樂" title="CSS可樂" xmlUrl="http://csscoke.com/feed/" htmlUrl="http://csscoke.com"/>
+            <outline type="rss" text="EFE Tech" title="EFE Tech" xmlUrl="http://efe.baidu.com/atom.xml" htmlUrl="http://efe.baidu.com/"/>
+            <outline type="rss" text="前端，沒有極限" title="前端，沒有極限" xmlUrl="http://wcc723.github.io/atom.xml" htmlUrl="http://wcc723.github.io/wcc723.github.io"/>
+            <outline type="rss" text="Kimix" title="Kimix" xmlUrl="http://kimix.name/feed/" htmlUrl="http://kimix.name"/>
+            <outline type="rss" text="MUKI space*" title="MUKI space*" xmlUrl="http://feeds.feedburner.com/mukispace" htmlUrl="http://muki.tw"/>
+            <outline type="rss" text="w3cplus 博客" title="w3cplus 博客" xmlUrl="http://www.w3cplus.com/blog/feed" htmlUrl="http://www.w3cplus.com/blog"/>
+            <outline type="rss" text="PJCHENder愛分享" title="PJCHENder愛分享" xmlUrl="https://pjchender.blogspot.com/feeds/posts/default" htmlUrl="http://pjchender.blogspot.com/"/>
+            <outline type="rss" text="Oxxo.Studio" title="Oxxo.Studio" xmlUrl="http://www.oxxostudio.tw/rss.xml" htmlUrl="http://www.oxxostudio.tw"/>
+        </outline>
+        <outline text="Ozaki Yutaka" title="Ozaki Yutaka">
+            <outline type="rss" text="尾崎豊｜インフォメーション" title="尾崎豊｜インフォメーション" xmlUrl="http://www.sonymusic.co.jp/xml/artInfoRSS.php?id=83152671" htmlUrl="http://www.sonymusic.co.jp/artist/YutakaOzaki/info"/>
+        </outline>
+        <outline text="[IT] News (Taiwan)" title="[IT] News (Taiwan)">
+            <outline type="rss" text="電腦王" title="電腦王" xmlUrl="http://feeds.feedburner.com/pcadv" htmlUrl="http://pcadv.techbang.com/"/>
+            <outline type="rss" text="T客邦" title="T客邦" xmlUrl="http://feeds.feedburner.com/techbang" htmlUrl="http://www.techbang.com/"/>
+        </outline>
+        <outline text="[Must Read] Weekly " title="[Must Read] Weekly ">
+            <outline type="rss" text="Weekly Collection @F2ETW" title="Weekly Collection @F2ETW" xmlUrl="http://www.f2e.tw/weekly-collection/feed.xml" htmlUrl="http://www.f2e.tw//weekly-collection/"/>
+            <outline type="rss" text="可乐橙" title="可乐橙" xmlUrl="http://colachan.com/feed" htmlUrl="http://colachan.com/"/>
+            <outline type="rss" text="Collective – Codrops" title="Collective – Codrops" xmlUrl="http://tympanus.net/codrops/collective/feed/" htmlUrl="https://tympanus.net/codrops"/>
+            <outline type="rss" text="FEX 百度 Web 前端研发部" title="FEX 百度 Web 前端研发部" xmlUrl="http://fex.baidu.com/feed.xml" htmlUrl="http://fex.baidu.com"/>
+            <outline type="rss" text="TechBridge Weekly 技術週刊" title="TechBridge Weekly 技術週刊" xmlUrl="http://weekly.techbridge.cc/feed" htmlUrl="http://weekly.techbridge.cc/"/>
+            <outline type="rss" text="FrontEnd Focus" title="FrontEnd Focus" xmlUrl="http://html5weekly.com/rss" htmlUrl="http://html5weekly.com/"/>
+            <outline type="rss" text="CodeTengu Weekly 碼天狗週刊" title="CodeTengu Weekly 碼天狗週刊" xmlUrl="http://weekly.codetengu.com/issues.rss" htmlUrl="http://weekly.codetengu.com/issues"/>
+        </outline>
+        <outline text="[Web] SEO (Chi)" title="[Web] SEO (Chi)">
+            <outline type="rss" text="awoo SEO 關鍵字行銷誌" title="awoo SEO 關鍵字行銷誌" xmlUrl="http://www.awoo.com.tw/blog/feed/" htmlUrl="http://www.awoo.com.tw/blog"/>
+            <outline type="rss" text="台灣搜尋引擎優化與行銷研究院" title="台灣搜尋引擎優化與行銷研究院" xmlUrl="http://feeds.feedburner.com/dnsblog-seo" htmlUrl="https://seo.dns.com.tw"/>
+        </outline>
+        <outline text="[Design] Font" title="[Design] Font">
+            <outline type="rss" text="jf tips" title="jf tips" xmlUrl="http://tips.justfont.com/rss" htmlUrl="http://tips.justfont.com/"/>
+            <outline type="rss" text="justfont blog" title="justfont blog" xmlUrl="http://blog.justfont.com/feed/" htmlUrl="http://blog.justfont.com"/>
+            <outline type="rss" text="Type is Beautiful" title="Type is Beautiful" xmlUrl="http://feed.feedsky.com/typeisbeautiful" htmlUrl="http://www.typeisbeautiful.com"/>
+            <outline type="rss" text="type.center/tw" title="type.center/tw" xmlUrl="http://type.center/tw/feed" htmlUrl="http://type.center/tw"/>
+            <outline type="rss" text="Type is Beautiful" title="Type is Beautiful" xmlUrl="http://feeds.feedburner.com/typeisbeautiful" htmlUrl="http://www.typeisbeautiful.com"/>
+        </outline>
+        <outline text="[Web] Back-End (Chi)" title="[Web] Back-End (Chi)">
+            <outline type="rss" text="mrkt 的程式學習筆記" title="mrkt 的程式學習筆記" xmlUrl="http://kevintsengtw.blogspot.com/feeds/posts/default" htmlUrl="http://kevintsengtw.blogspot.com/"/>
+            <outline type="rss" text="黑暗執行緒" title="黑暗執行緒" xmlUrl="http://blog.darkthread.net/blogs/darkthreadtw/rss.aspx" htmlUrl="http://blog.darkthread.net/blogs/darkthreadtw/default.aspx"/>
+            <outline type="rss" text="ASP.NET專題實務 教學影片 入門實戰課程 -- MIS2000Lab.- 點部落" title="ASP.NET專題實務 教學影片 入門實戰課程 -- MIS2000Lab.- 點部落" xmlUrl="http://www.dotblogs.com.tw/mis2000lab/Rss.aspx" htmlUrl="https://dotblogs.com.tw/mis2000lab/rss"/>
+            <outline type="rss" text="The Will Will Web" title="The Will Will Web" xmlUrl="http://feeds.feedburner.com/TheWillWillWeb" htmlUrl="http://blog.miniasp.com/"/>
+            <outline type="rss" text="Design for Startup™" title="Design for Startup™" xmlUrl="https://tenten.co/blog/feed/" htmlUrl="https://tenten.co/blog"/>
+        </outline>
+        <outline text="[Design] Others" title="[Design] Others">
+            <outline type="rss" text="优设-Uisdc" title="优设-Uisdc" xmlUrl="http://www.uisdc.com/feed" htmlUrl="http://www.uisdc.com"/>
+            <outline type="rss" text="設計大舌頭" title="設計大舌頭" xmlUrl="http://designtongue.me/feed/" htmlUrl="https://designtongue.me"/>
+            <outline type="rss" text="Be For Web" title="Be For Web" xmlUrl="http://beforweb.com/rss.xml" htmlUrl="http://beforweb.com"/>
+        </outline>
+        <outline text="[Web] Front-End (Jpn)" title="[Web] Front-End (Jpn)">
+            <outline type="rss" text="PhotoshopVIP" title="PhotoshopVIP" xmlUrl="http://photoshopvip.net/feed" htmlUrl="http://photoshopvip.net"/>
+            <outline type="rss" text="HTML5Experts.jp" title="HTML5Experts.jp" xmlUrl="http://html5experts.jp/feed/" htmlUrl="https://html5experts.jp"/>
+            <outline type="rss" text="コムテブログ" title="コムテブログ" xmlUrl="http://commte.net/blog/feed" htmlUrl="http://commte.net/blog"/>
+            <outline type="rss" text="かちびと.net" title="かちびと.net" xmlUrl="http://kachibito.net/feed" htmlUrl="http://kachibito.net"/>
+            <outline type="rss" text="Webクリエイターボックス" title="Webクリエイターボックス" xmlUrl="http://www.webcreatorbox.com/feed/" htmlUrl="http://www.webcreatorbox.com"/>
+        </outline>
+        <outline text="Others" title="Others">
+            <outline type="rss" text="Stories by Felix Chern on Medium" title="Stories by Felix Chern on Medium" xmlUrl="https://medium.com/feed/@fchern" htmlUrl="https://medium.com/@fchern?source=rss-a7b3d0cf38cd------2"/>
+            <outline type="rss" text="Shopline自助電商教室" title="Shopline自助電商教室" xmlUrl="https://shopline.hk/blog/feed/" htmlUrl="https://shopline.hk/blog"/>
+            <outline type="rss" text="酷 壳 – CoolShell" title="酷 壳 – CoolShell" xmlUrl="http://coolshell.cn/feed" htmlUrl="http://coolshell.cn"/>
+            <outline type="rss" text="91app 品牌全通路學院｜與您分享電商及網路開店大小事" title="91app 品牌全通路學院｜與您分享電商及網路開店大小事" xmlUrl="http://blog.91app.com/feed/" htmlUrl="http://blog.91app.com"/>
+            <outline type="rss" text="搞笑談軟工" title="搞笑談軟工" xmlUrl="http://teddy-chen-tw.blogspot.com/feeds/posts/default" htmlUrl="http://teddy-chen-tw.blogspot.com/"/>
+        </outline>
+        <outline text="[IT] News (Hong Kong)" title="[IT] News (Hong Kong)">
+            <outline type="rss" text="UNWIRE.PRO" title="UNWIRE.PRO" xmlUrl="http://unwire.pro/feed/" htmlUrl="https://unwire.pro"/>
+        </outline>
+        <outline text="[Web] Front-End (Eng)" title="[Web] Front-End (Eng)">
+            <outline type="rss" text="Smashing Magazine" title="Smashing Magazine" xmlUrl="http://rss1.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com"/>
+            <outline type="rss" text="Designmodo" title="Designmodo" xmlUrl="http://feeds.feedburner.com/designmodo" htmlUrl="https://designmodo.com"/>
+            <outline type="rss" text="Speckyboy Design Magazine" title="Speckyboy Design Magazine" xmlUrl="http://feeds.feedburner.com/speckboy-design-magazine" htmlUrl="https://speckyboy.com"/>
+            <outline type="rss" text="CodyHouse » Gems" title="CodyHouse » Gems" xmlUrl="http://feeds.feedburner.com/codyhouse/feeds" htmlUrl="https://codyhouse.co"/>
+            <outline type="rss" text="Tutorialzine" title="Tutorialzine" xmlUrl="http://feeds.feedburner.com/Tutorialzine" htmlUrl="http://tutorialzine.com"/>
+            <outline type="rss" text="HTML5Rocks" title="HTML5Rocks" xmlUrl="http://feeds.feedburner.com/html5rocks" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=647030be6aceb6d005c3775a1c19401c"/>
+            <outline type="rss" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="https://css-tricks.com"/>
+        </outline>
+        <outline text="[Web] Official Blog" title="[Web] Official Blog">
+            <outline type="rss" text="Official jQuery Blog" title="Official jQuery Blog" xmlUrl="http://jquery.com/blog/feed/" htmlUrl="http://blog.jquery.com"/>
+            <outline type="rss" text="Google Webmaster Central Blog" title="Google Webmaster Central Blog" xmlUrl="http://googlewebmastercentral.blogspot.com/feeds/posts/default" htmlUrl="http://webmasters.googleblog.com/"/>
+            <outline type="rss" text="Sass Blog" title="Sass Blog" xmlUrl="http://sass.logdown.com/posts.rss" htmlUrl="http://sass.logdown.com/"/>
+            <outline type="rss" text="Angular" title="Angular" xmlUrl="http://blog.angularjs.org/feeds/posts/default" htmlUrl="http://angularjs.blogspot.com/"/>
+            <outline type="rss" text="Node.js Blog" title="Node.js Blog" xmlUrl="http://blog.nodejs.org/feed/" htmlUrl="https://nodejs.org/en/"/>
+            <outline type="rss" text="Bootstrap Blog" title="Bootstrap Blog" xmlUrl="http://blog.getbootstrap.com/feed.xml" htmlUrl="http://blog.getbootstrap.com/"/>
+            <outline type="rss" text="Vue.js" title="Vue.js" xmlUrl="http://vuejs.org/atom.xml" htmlUrl="http://vuejs.org/"/>
+        </outline>
+    </body>
+</opml>
